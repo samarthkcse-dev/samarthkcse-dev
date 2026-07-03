@@ -4,7 +4,7 @@
 
 ### 🚀 Computer Science Student | Data Science Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Aspiring+AI+Engineer;Python+Developer;Data+Science+Enthusiast;Building+Real-World+Projects;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub!;Computer+Engineering+Student;Passionate+about+AI+%26+Data+Science;Building+Real-World+Projects;Always+Learning+Something+New;Open+to+Learning+and+Collaboration" />
 
 </div>
 
